@@ -1,4 +1,4 @@
-# Turing School Prework
+# Turing School Prework Stephanie Bentley
 
 ### Task A- Practice Typing:
 * screenshots of scores will be posted in comments
